@@ -173,7 +173,7 @@
                       </div>
                     </div>
                     </div>
-                      <div class="col-md-6 site-animate">
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/SangNyukMian.jpg" class="img-fluid" >
                       <div class="media-body">
@@ -184,7 +184,7 @@
                         <button class="button">Delete</button>
                       </div>
                     </div>
-                      </div>
+                    </div>
                   
                   <div class="col-md-6 site-animate">
                     <div class="media menu-item">
