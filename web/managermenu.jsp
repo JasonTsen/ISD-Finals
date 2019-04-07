@@ -187,7 +187,6 @@
                       </div>
                   
                   <div class="col-md-6 site-animate">
-
                     <div class="media menu-item">
                       <img class="mr-3" src="images/TuaranMee.jpg" class="img-fluid" >
                       <div class="media-body">

@@ -68,8 +68,7 @@
                 <div class="addmealH">
                     Add meal details.
                 </div>
-          
-            
+             
             <div class="report">  
             <p><a href="../report.html" class="btn btn-outline-white btn-lg site-animate">Report</a></p>
             </div> 
