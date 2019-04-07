@@ -153,7 +153,6 @@
                   </div>
                 </div>
               </div>
-              
               <div class="tab-pane fade" id="pills-lunch" role="tabpanel" aria-labelledby="pills-lunch-tab">
                 <div class="row">
                   <div class="col-md-6 site-animate">

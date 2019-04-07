@@ -238,8 +238,6 @@
     <script src="js/jquery.easing.1.3.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/jquery.animateNumber.min.js"></script>
-    
 
-        
     </body>
 </html>

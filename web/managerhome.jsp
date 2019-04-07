@@ -99,7 +99,6 @@
     <script src="js/jquery.timepicker.min.js"></script>
     <script src="js/jquery.animateNumber.min.js"></script>
     <script src="js/main.js"></script>
-
     
   </body>
 </html>
