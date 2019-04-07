@@ -36,7 +36,7 @@
        <div class="collapse navbar-collapse" id="site-nav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active"><a href="#section-home" class="nav-link">Home</a></li>
-            <li class="nav-item active"><a href="../login.html" class="nav-link">Student</a></li>
+            <li class="nav-item active"><a href="../login.html" class="nav-link">Manager</a></li>
           </ul>
         </div>
       </div>
@@ -52,15 +52,9 @@
         <div class="row align-items-center justify-content-center text-center site-vh-100">
           <div class="col-md-12">
             
-            <div class="container-fluid">
-  <br /><br />
-  <ul class="list-unstyled multi-steps">
-    <li class="is-active">Choose Meal</li>
-    <li>Your Order</li>
-    <li>Order Confirmation</li>
-    <li>Payment</li>
-  </ul>
-</div>
+            
+            <br /><br />
+  
             <div class="col-md-12 text-center">
             <ul class="nav site-tab-nav nav-pills mb-5" id="pills-tab" role="tablist">
               <li class="nav-item site-animate" >
@@ -71,44 +65,49 @@
               </li>
             </ul>       
             </div>
-                
-               
-            
             <div class="tab-content text-left">
               <div class="tab-pane fade show active" id="pills-breakfast" role="tabpanel" aria-labelledby="pills-breakfast-tab">
                 <div class="row">
-                  <div class="col-md-6 site-animate">
+                 
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/dim-sum.jpg" class="img-fluid" >
                       <div class="media-body">
                         <h5 class="mt-0">Chinese Dumplings</h5>
                         <p>Chinese cuisine made with chicken meat.</p>
                         <h6 class="text-primary menu-price">9 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
+                    </div>
+                    
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/har gao.jpeg" class="img-fluid" >
                       <div class="media-body">
                         <h5 class="mt-0">Prawn Dumplings</h5>
                         <p>Chinese cuisine made with prawn and few slices of vegetables.</p>
                         <h6 class="text-primary menu-price">8 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
+                    </div>
+                        <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/siumai.jpg" class="img-fluid">
                       <div class="media-body">
                         <h5 class="mt-0">Siu Mai</h5>
                         <p>Chinese cuisine made with pork.</p>
                         <h6 class="text-primary menu-price">5 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
-                  </div>
+                        </div>
+                  
+                    
                   <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/CantoneeseDumpling.jpg" class="img-fluid">
@@ -116,27 +115,32 @@
                         <h5 class="mt-0">Cantoneese Dumplings</h5>
                         <p>Chinese cuisine fried with chicken meat and crunch taste.</p>
                         <h6 class="text-primary menu-price">7 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
+                  </div>
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/liushabao.png" class="img-fluid">
                       <div class="media-body">
                         <h5 class="mt-0">Liu Sha Bao</h5>
                         <p>Chinese cuisine bun steamed with custard sauce.</p>
                         <h6 class="text-primary menu-price">6 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
+                    </div>
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/steamedporkbuns.jpg" class="img-fluid">
                       <div class="media-body">
                         <h5 class="mt-0">Steamed Pork Buns</h5>
                         <p>Chinese cuisine buns steamed with pork.</p>
                         <h6 class="text-primary menu-price">8 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
                   </div>
@@ -152,31 +156,36 @@
                         <h5 class="mt-0">Hainanese Chicken Rice</h5>
                         <p>Chicken Rice with some hainan flavour chicken.</p>
                         <h6 class="text-primary menu-price">8 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
+                  </div>
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/PanMee.jpg" class="img-fluid">
                       <div class="media-body">
                         <h5 class="mt-0">Pan Mee</h5>
                         <p>Pan Mee cook with porks and few vegetable slices.</p>
                         <h6 class="text-primary menu-price">6 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
+                    </div>
+                      <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/SangNyukMian.jpg" class="img-fluid" >
                       <div class="media-body">
                         <h5 class="mt-0">Sang Nyuk Mee</h5>
                         <p>Noodle that cook with porks and few vegetable slices.</p>
                         <h6 class="text-primary menu-price">8 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
-                  </div>
+                      </div>
+                  
                   <div class="col-md-6 site-animate">
 
                     <div class="media menu-item">
@@ -185,31 +194,34 @@
                         <h5 class="mt-0">Tuaran Mee</h5>
                         <p>Noodle that has tuaran style fry with vegetable, char siu and pork egg roll.</p>
                         <h6 class="text-primary menu-price">8 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
+                  </div>
+                      <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/fishsauce.jpg" class="img-fluid">
                       <div class="media-body">
                         <h5 class="mt-0">Fish Sauce MeeHoon</h5>
                         <p>Mee Hoon fry with fish sauce, fish meat and vegetables.</p>
                         <h6 class="text-primary menu-price">9 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
+                      </div>
+                      <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/sweet.JPG" class="img-fluid">
                       <div class="media-body">
                         <h5 class="mt-0">Sweet And Sour Fish Rice</h5>
                         <p>Rice with sweet and sour flavour on fresh fish meat.</p>
                         <h6 class="text-primary menu-price">10 credit points</h6>
-                        <button class="button">Order Now</button>
+                        <button class="button">Edit</button>
+                        <button class="button">Delete</button>
                       </div>
                     </div>
-
-                    
                   </div>
                 </div>
               </div>
@@ -217,12 +229,6 @@
         </div>
       </div>     
        </div>
-      
-           
-        
-           
-    
-           
     <script src="js/jquery.min.js"></script>
     
 

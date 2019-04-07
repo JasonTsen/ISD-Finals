@@ -59,14 +59,14 @@
           <div class="col-md-12">
             
             <div class="container-fluid">
-  <br /><br />
-  <ul class="list-unstyled multi-steps">
-    <li class="is-active">Choose Meal</li>
-    <li>Your Order</li>
-    <li>Order Confirmation</li>
-    <li>Payment</li>
-  </ul>
-</div>
+            <br /><br />
+            <ul class="list-unstyled multi-steps">
+              <li class="is-active">Choose Meal</li>
+              <li>Your Order</li>
+              <li>Order Confirmation</li>
+              <li>Payment</li>
+            </ul>
+          </div>
             <div class="col-md-12 text-center">
             <ul class="nav site-tab-nav nav-pills mb-5" id="pills-tab" role="tablist">
               <li class="nav-item site-animate" >
@@ -93,7 +93,8 @@
                         <button class="button">Order Now</button>
                       </div>
                     </div>
-
+                  </div>
+                        <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/har gao.jpeg" class="img-fluid" >
                       <div class="media-body">
@@ -103,7 +104,8 @@
                         <button class="button">Order Now</button>
                       </div>
                     </div>
-
+                        </div>
+                      <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/siumai.jpg" class="img-fluid">
                       <div class="media-body">
@@ -115,6 +117,7 @@
                     </div>
 
                   </div>
+                      
                   <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/CantoneeseDumpling.jpg" class="img-fluid">
@@ -125,7 +128,8 @@
                         <button class="button">Order Now</button>
                       </div>
                     </div>
-
+                  </div>
+                      <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/liushabao.png" class="img-fluid">
                       <div class="media-body">
@@ -135,7 +139,8 @@
                         <button class="button">Order Now</button>
                       </div>
                     </div>
-
+                      </div>
+                      <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/steamedporkbuns.jpg" class="img-fluid">
                       <div class="media-body">
@@ -148,6 +153,7 @@
                   </div>
                 </div>
               </div>
+              
               <div class="tab-pane fade" id="pills-lunch" role="tabpanel" aria-labelledby="pills-lunch-tab">
                 <div class="row">
                   <div class="col-md-6 site-animate">
@@ -161,7 +167,8 @@
                         <button class="button">Order Now</button>
                       </div>
                     </div>
-
+                  </div>
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/PanMee.jpg" class="img-fluid">
                       <div class="media-body">
@@ -171,7 +178,8 @@
                         <button class="button">Order Now</button>
                       </div>
                     </div>
-
+                    </div>
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/SangNyukMian.jpg" class="img-fluid" >
                       <div class="media-body">
@@ -184,7 +192,6 @@
 
                   </div>
                   <div class="col-md-6 site-animate">
-
                     <div class="media menu-item">
                       <img class="mr-3" src="images/TuaranMee.jpg" class="img-fluid" >
                       <div class="media-body">
@@ -194,7 +201,8 @@
                         <button class="button">Order Now</button>
                       </div>
                     </div>
-
+                  </div>
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/fishsauce.jpg" class="img-fluid">
                       <div class="media-body">
@@ -204,7 +212,8 @@
                         <button class="button">Order Now</button>
                       </div>
                     </div>
-
+                    </div>
+                    <div class="col-md-6 site-animate">
                     <div class="media menu-item">
                       <img class="mr-3" src="images/sweet.JPG" class="img-fluid">
                       <div class="media-body">
@@ -223,31 +232,15 @@
         </div>
       </div>     
        </div>
-      
-           
-        
-           
-    
            
     <script src="js/jquery.min.js"></script>
-    
-
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
-
     <script src="js/main.js"></script>
-
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.1.3.js"></script>
-   
-   
     <script src="js/jquery.magnific-popup.min.js"></script>
-
-   
     <script src="js/jquery.animateNumber.min.js"></script>
-    
-
-        
     </body>
 </html>
