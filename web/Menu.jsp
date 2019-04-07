@@ -189,7 +189,6 @@
                         <button class="button">Order Now</button>
                       </div>
                     </div>
-
                   </div>
                   <div class="col-md-6 site-animate">
                     <div class="media menu-item">
